@@ -63,7 +63,7 @@
         </svg>
       </span>
       <span class="tracking-wide">Detalles cliente</span>
-      <span class="text-xs text-gray-500 font-normal">(ID: {data.cliente.id}) <a class="text-blue-500 font-bold text-xl m-3 bx bx-edit" href="/clientes/{data.cliente.id}/editar"> </a></span>
+      <span class="text-xs text-gray-500 font-normal">(ID: {data.cliente.id}) <a class="text-blue-500 font-bold m-3 bx bx-edit" href="/clientes/{data.cliente.id}/editar"> </a></span>
     </div>
     <div class="text-gray-700 font-mono">
       <div class="grid md:grid-cols-1 text-sm">
